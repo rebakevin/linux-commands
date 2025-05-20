@@ -1,4 +1,4 @@
-First linux class
+# First linux class
 
 > [!NOTE]  
 > Remember to pull from main before pushing by running `git pull` or `git pull origin main`
